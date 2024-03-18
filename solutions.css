@@ -22,4 +22,23 @@
 .ex-3-square:hover{
     border-radius: 100%;
 }
+/*esercizio4*/
+.ex-4-square{
+    transition: 3s;
+}
 
+.ex-4-square:hover{
+    opacity: 0;
+}
+/*esercizio5*/
+.ex-5-square{
+    transition: 2s;
+}
+
+.ex-5-square:hover{
+    transform: scale(3);
+}
+
+.ex-5-square:active{
+    transform: scale(5);
+}
