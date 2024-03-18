@@ -6,3 +6,20 @@
 .ex-1-square:hover{
     background-color: red;
 }
+/*esercizio2*/
+.ex-2-square{
+    transition: 3s;
+}
+
+.ex-2-square:active{
+    width: 100%;
+}
+/*esercizio3*/
+.ex-3-square{
+    transition: 3s;
+}
+
+.ex-3-square:hover{
+    border-radius: 100%;
+}
+
